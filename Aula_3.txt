@@ -1,0 +1,158 @@
+    1  ls
+    2  ls-a
+    3  pwd
+    4  cd
+    5  cd..
+    6  cd[caminho]
+    7  cd~
+    8  clear
+    9  mkdir [gil]
+   10  mkdir [hoje1] [hoje2]
+   11  pwd
+   12  ls
+   13  mv[gil] [gil5]
+   14  ls
+   15  touch [padre]
+   16  ls
+   17  cat [padre]
+   18  history
+   19  clear
+   20  ls
+   21  ls..
+   22  pwd
+   23  cd desktop/
+   24  cd..
+   25  ls..
+   26  pwd
+   27  ls
+   28  cd Documents
+   29  cd.
+   30  ls..
+   31  cd
+   32  ~cd Documents/
+   33  cd Documents/
+   34  cd
+   35  cd Documents/
+   36  ls 
+   37  rm
+   38  clear
+   39  git init
+   40  git config--global user.name "Gilberto.Gil"
+   41  git config--global user.name "Gilberto Gil"
+   42  clear
+   43  git config --global user.name 'Gilberto Gil'
+   44  git config --global user.email 'gilgilberto2611@gmail.com'
+   45  clear
+   46  ls
+   47  clear
+   48  git config user.name
+   49  git config user.email
+   50  cd Desktop/
+   51  cd Documentos/
+   52  ls
+   53  cd Documents/
+   54  mkdir Curso_Git
+   55  cd Curso_Git
+   56  git config user.name
+   57  git init
+   58  git status
+   59  clear
+   60  ls
+   61  git status
+   62  clear
+   63  git status
+   64  git config user.name
+   65  git config user.e-mail
+   66  git config user.e.mail
+   67  git config user.e-mail
+   68  cd
+   69  cd Documents
+   70  mkdir Curso_Git
+   71  cd Curso_Git
+   72  git init
+   73  git status
+   74  echo '#Aprendendo usar o Git' > readme.md
+   75  git status
+   76  git commit -m 'Cmmit inicial'
+   77  git status
+   78  git commit -m 'Commit inicial'
+   79  clear
+   80  git status
+   81  git status
+   82  clear
+   83  ls
+   84  ls status
+   85  ls config
+   86  ls Documents
+   87  git config user.name
+   88  git config user.email
+   89  git status
+   90  clear
+   91  cd Git_curso
+   92  cd Curso_Git/
+   93  clear
+   94  cd Documents
+   95  cd Curso_Git/
+   96  git config user.name
+   97  git init
+   98  git status
+   99  git add readme.md
+  100  git status
+  101  git commit -m 'Commit inicial'
+  102  git status
+  103  echo'##Aula 1' >> readme.md
+  104  git status
+  105  git echo 'Gilberto Gil' > participantes.txt
+  106  echo 'Gilberto Gil' > participantes.txt
+  107  git status
+  108  echo '##Aula 1' >> readme.md
+  109  git status
+  110  git add.
+  111  git add .
+  112  git status
+  113  git commit -am 'Alteraçao no readme'
+  114  git status
+  115  git add participantes.txt
+  116  git status
+  117  git commit -m 'Adicionando participantes.txt'
+  118  history > Aula_3.txt
+  119  git status
+  120  git add
+  121  git commit -m 'Comandos da Aula 3'
+  122  history
+  123  cd Documents/Curso_Git
+  124  git log
+  125  git log --pretty=oneline
+  126  echo 'Gilberto Gil' > participantes.txt
+  127  git status
+  128  git add .
+  129  git status
+  130  cd Aula_3.txt
+  131  git log
+  132  git status
+  133  git restore --staged participantes.txt
+  134  git status
+  135  echo 'Gilberto Gil' > participantes.txt
+  136  git status
+  137  git add participantes.txt
+  138  git status
+  139  ls
+  140  git add .
+  141  git status
+  142  git restore --staged participantes.txt
+  143  git status
+  144  git add participantes.txt
+  145  git status
+  146  git restore --stage .
+  147  git status
+  148  git commit -am 'Alteraçao no readme
+git commit -am 'Alteraçao no readme'
+git status
+ls 
+cd
+clear
+  149  git commit -am Alteraçao no readme'
+  150  git status
+  151  git commit -m 'Adicionado participantes.txt'
+  152  git add participantes.txt
+  153  history > Aula_3.txt
