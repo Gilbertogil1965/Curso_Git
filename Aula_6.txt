@@ -1,0 +1,19 @@
+    1  cd Documents/Curso_Git
+    2  git config --global alias.logpg 'log --pretty=oneline --graph'
+    3  git log --pretty=oneline --graph
+    4  git checkout Feature
+    5  git config --global alias.logpg 'log --pretty=oneline --graph
+
+clear
+    6  git config --global alias.logpg 'log --pretty=oneline --graph'
+    7  git log --pretty=oneline --graph
+    8  git logpg
+    9  git config alias.CAM. 'Commit -a'
+   10  git CAM
+   11  git tag
+   12  git tag -a v0.1 -m 'Ate a Aula 5'
+   13  git logpg
+   14  git checkout master
+   15  git rebase feature
+   16  git logpg
+   17  history > Aula_6.txt
